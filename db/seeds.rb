@@ -5,3 +5,14 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+# puts "Add fake tasks"
+
+# 20.times do |gen|
+#   Task.create(
+#     title: faker
+#     details:
+#     completed: [true, false].sample
+#   )
+# end
